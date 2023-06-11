@@ -10,7 +10,7 @@ outputPath_Test = 'D:\TFG\our_simulated_data_testData\output_B_test\';
 
 numClasses = 2;
 
-classNames = ["background" "GT"];
+classNames = ["background" "B"];
 labelIDs   = [0 255];
 
 %% Step 3: Get image and mask test file paths 
